@@ -1,7 +1,7 @@
-### read javascript
+##### 자바스크립트 관련 책 읽은 후 내용 정리하는 레포지토리
 
-#### 1. core js
+- core js
 
-#### 2. modern js deep dive
+- modern js deep dive
 
-#### 3. you don`t know js
+- you don`t know js
